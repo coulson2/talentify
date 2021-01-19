@@ -18,5 +18,7 @@
 ## Spring Framework
 [How to add custom information in info actuator](https://talentify.com/spring-boot-info-actuator-how-to-add-custom-information/) - Actuator basics, info actuator and various ways of adding custom information to the info endpoint
 
+[How to write a spring kafka producer](https://talentify.com/kafka-producer-example-using-spring-kafka/) - Spring kafka producer application example
+
 ## Agility
 [Empower your developers with outside talent](https://talentify.com/8-reasons-to-empower-your-developers-with-outside-talent/) - Reasons to periodically infuse your team with outside, temporary talent
