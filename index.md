@@ -8,9 +8,9 @@
 
 [Thread safety in Java](https://talentify.com/3-ways-to-achieve-thread-safety-in-java/) - 3 ways to achieve thread safety in Java
 
+[JMH concepts and illustrative examples](https://talentify.com/how-to-effectively-benchmark-using-java-microbenchmark-harness-jmh) - How to effectively benchmark using Java Microbenchmark Harness (JMH)
 
-
-## Common core Java problems and solutions
+## Common Java problems and solutions
 [How to reverse a String in Java](https://talentify.com/how-to-reverse-a-string-in-java-7-ways-with-examples/) - 7 ways to reverse a String in Java
 
 [How to convert a String to integer in Java](https://talentify.com/how-to-convert-string-to-primitive-int-in-java/) - Converting String to integer is a commonly required transformation and more nuanced that you think
