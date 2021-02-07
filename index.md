@@ -10,6 +10,9 @@
 
 [JMH concepts and illustrative examples](https://talentify.com/how-to-effectively-benchmark-using-java-microbenchmark-harness-jmh) - How to effectively benchmark using Java Microbenchmark Harness (JMH)
 
+[How to - Understanding and communicating time complexity of your code / algorithms using Big-O notation](https://talentify.com/understanding-time-complexity-using-big-o-notation-and-examples/) - Explanation of Big-O with practical examples.
+
+
 ## Common Java problems and solutions
 [How to reverse a String in Java](https://talentify.com/how-to-reverse-a-string-in-java-7-ways-with-examples/) - 7 ways to reverse a String in Java
 
