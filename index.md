@@ -23,5 +23,7 @@
 
 [How to write a spring kafka producer](https://talentify.com/kafka-producer-example-using-spring-kafka/) - Spring kafka producer application example
 
+[How to write a spring kafka consumer](https://talentify.com/consume-kafka-events-using-spring-kafka-example/) - Spring kafka consumer application example
+
 ## Agility
 [Empower your developers with outside talent](https://talentify.com/8-reasons-to-empower-your-developers-with-outside-talent/) - Reasons to periodically infuse your team with outside, temporary talent
